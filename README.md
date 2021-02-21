@@ -13,8 +13,8 @@ play around with Swift and Go when I have the free cycles.
 ## Wait Wait Stats Page Projects
 
 If you are interested in taking a gander at the code for the Stats Page and its
-supporting and related components, check out the repos listed below. All of the
-code is published under the terms of
+supporting and related components, check out the repos listed below. The code
+for this projects are published under the terms of
 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) (unless
 otherwise noted in the repo's `LICENSE` file).
 
