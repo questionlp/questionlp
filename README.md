@@ -37,6 +37,13 @@ calculations for guests, hosts, panelists and scorekeepers on the show.
 
  * [libwwdtm](https://github.com/questionlp/libwwdtm)
 
+There is an effort underway to completely refactor the library to make use of
+features added after the release of Python 3.6; as well as, to make it easier
+to use the various modules within the library. The early stages of the new
+library is available at:
+
+ * [wwdtm](https://github.com/questionlp/wwdtm)
+
 ### Database Schema
 
 The data that I've collected is stored in a MariaDB/MySQL database and I've
