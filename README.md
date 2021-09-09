@@ -26,7 +26,6 @@ are developed in Python and on top of the
 
  * [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me)
  * [api.wwdt.me](https://github.com/questionlp/api.wwdt.me)
- * [api.wwdt.me_fastapi](https://github.com/questionlp/api.wwdt.me_fastapi)
  * [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
  * [reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me)
 
@@ -43,7 +42,7 @@ features added after the release of Python 3.6; as well as, to make it easier
 to use the various modules within the library. The early stages of the new
 library is available at:
 
- * [wwdtm](https://github.com/questionlp/wwdtm)
+ * TBD: wwdtm
 
 ### Database Schema
 
