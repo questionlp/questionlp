@@ -58,8 +58,8 @@ the now deprecated [Silex](https://github.com/silexphp/Silex) framework. I've
 published the code in case anyone is interested at looking at the progression
 of the Stats Page over the years.
 
- * [wwdtm_v2](https://github.com/questionlp/wwdt.me_v2)
- * [wwdtm_v3](https://github.com/questionlp/wwdt.me_v3)
+ * [stats.wwdt.me_v2](https://github.com/questionlp/stats.wwdt.me_v2)
+ * [stats.wwdt.me_v3](https://github.com/questionlp/stats.wwdt.me_v3)
 
 ## Connect
 
