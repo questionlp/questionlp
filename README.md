@@ -26,7 +26,7 @@ are developed in Python and on top of the
 
  * [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me)
  * [api.wwdt.me](https://github.com/questionlp/api.wwdt.me)
- * [api.wwdt.me_fastapi](https://github.com/questionlp/api.wwdt.me_fastapi) *(Currently in development)*
+ * [api.wwdt.me_fastapi](https://github.com/questionlp/api.wwdt.me_fastapi) *(Pre-Release)*
  * [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
  * [reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me)
 
@@ -40,7 +40,7 @@ calculations for guests, hosts, panelists and scorekeepers on the show.
 
 There is an effort underway to completely refactor the library to make use of
 features added after the release of Python 3.6; as well as, to make it easier
-to use the various modules within the library. The early stages of the new
+to use the various modules within the library. The pre-release versions of the new
 library is available at:
 
  * [wwdtm](https://github.com/questionlp/wwdtm)
