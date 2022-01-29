@@ -25,6 +25,7 @@ are developed in Python and on top of the
 [Flask](https://github.com/pallets/flask) micro web app framework.
 
  * [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me)
+ * [stats.wwdt.me_v5](https://github.com/questionlp/stats.wwdt.me_v5) *(Pre-Release)*
  * [api.wwdt.me](https://github.com/questionlp/api.wwdt.me)
  * [api.wwdt.me_fastapi](https://github.com/questionlp/api.wwdt.me_fastapi) *(Pre-Release)*
  * [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
@@ -38,12 +39,11 @@ calculations for guests, hosts, panelists and scorekeepers on the show.
 
  * [libwwdtm](https://github.com/questionlp/libwwdtm)
 
-There is an effort underway to completely refactor the library to make use of
-features added after the release of Python 3.6; as well as, to make it easier
-to use the various modules within the library. The pre-release versions of the new
-library is available at:
+Work is underway to completely refactor the library to make use of features added
+after the release of Python 3.6; as well as, to make it easier to use the various
+modules within the library. 
 
- * [wwdtm](https://github.com/questionlp/wwdtm)
+ * [wwdtm](https://github.com/questionlp/wwdtm) *(Pre-Release)*
 
 ### Database Schema
 
