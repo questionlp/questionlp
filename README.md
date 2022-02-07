@@ -27,7 +27,7 @@ are developed in Python and on top of the
  * [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me)
  * [stats.wwdt.me_v5](https://github.com/questionlp/stats.wwdt.me_v5) *(Pre-Release)*
  * [api.wwdt.me](https://github.com/questionlp/api.wwdt.me)
- * [api.wwdt.me_fastapi](https://github.com/questionlp/api.wwdt.me_fastapi) *(Pre-Release)*
+ * [api.wwdt.me_v2](https://github.com/questionlp/api.wwdt.me_v2) *(Pre-Release)*
  * [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
  * [reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me)
 
