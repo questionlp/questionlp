@@ -39,11 +39,13 @@ calculations for guests, hosts, panelists and scorekeepers on the show.
 
  * [libwwdtm](https://github.com/questionlp/libwwdtm)
 
-Work is underway to completely refactor the library to make use of features added
-after the release of Python 3.6; as well as, to make it easier to use the various
-modules within the library. 
+Version 2 has been released, which includes a complete refactor and restructuring.
+The new version requires Python 3.8 or higher. Development of the previous
+library will be limited to fixing any significant data retrieval or calculation
+issues. The next version of the Stats Page, API and Graphs Site will be based on
+Version 2.
 
- * [wwdtm](https://github.com/questionlp/wwdtm) *(Pre-Release)*
+ * [wwdtm](https://github.com/questionlp/wwdtm)
 
 ### Database Schema
 
