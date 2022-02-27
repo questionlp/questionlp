@@ -26,26 +26,21 @@ are developed in Python and on top of the
 
  * [stats.wwdt.me_v5](https://github.com/questionlp/stats.wwdt.me_v5) (Current Version)
  * [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me) (Previous Version)
- * [api.wwdt.me](https://github.com/questionlp/api.wwdt.me)
- * [api.wwdt.me_v2](https://github.com/questionlp/api.wwdt.me_v2) *(Pre-Release)*
+ * [api.wwdt.me_v2](https://github.com/questionlp/api.wwdt.me_v2) (Current Version)
+ * [api.wwdt.me](https://github.com/questionlp/api.wwdt.me) (Previous Version)
  * [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
  * [reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me)
 
 ### Library
 
-The Stats Page, Stats API and Graphs sites make use of a Python library that
-is used to pull data from the Stats database and does some of the stats
-calculations for guests, hosts, panelists and scorekeepers on the show.
+Version 2 of the Wait Wait Stats Library has been released; which, includes a
+complete refactor and restructuring. The new version requires Python 3.8 or
+higher. Development of the previous library will be limited to fixing any
+significant data retrieval or calculation issues.
 
- * [libwwdtm](https://github.com/questionlp/libwwdtm)
+ * Version 2: [wwdtm](https://github.com/questionlp/wwdtm)
+ * Version 1: [libwwdtm](https://github.com/questionlp/libwwdtm)
 
-Version 2 has been released, which includes a complete refactor and restructuring.
-The new version requires Python 3.8 or higher. Development of the previous
-library will be limited to fixing any significant data retrieval or calculation
-issues. The next version of the Stats Page, API and Graphs Site will be based on
-Version 2.
-
- * [wwdtm](https://github.com/questionlp/wwdtm)
 
 ### Database Schema
 
