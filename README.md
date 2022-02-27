@@ -24,8 +24,8 @@ The current version of the Stats Page, Stats API, Graphs and Reports sites
 are developed in Python and on top of the
 [Flask](https://github.com/pallets/flask) micro web app framework.
 
- * [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me)
- * [stats.wwdt.me_v5](https://github.com/questionlp/stats.wwdt.me_v5) *(Pre-Release)*
+ * [stats.wwdt.me_v5](https://github.com/questionlp/stats.wwdt.me_v5) (Current Version)
+ * [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me) (Previous Version)
  * [api.wwdt.me](https://github.com/questionlp/api.wwdt.me)
  * [api.wwdt.me_v2](https://github.com/questionlp/api.wwdt.me_v2) *(Pre-Release)*
  * [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
