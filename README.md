@@ -24,12 +24,12 @@ The current version of the Stats Page, Stats API, Graphs and Reports sites
 are developed in Python and on top of the
 [Flask](https://github.com/pallets/flask) micro web app framework.
 
- * [stats.wwdt.me_v5](https://github.com/questionlp/stats.wwdt.me_v5) (Current Version)
- * [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me) (Previous Version)
- * [api.wwdt.me_v2](https://github.com/questionlp/api.wwdt.me_v2) (Current Version)
- * [api.wwdt.me](https://github.com/questionlp/api.wwdt.me) (Previous Version)
+ * [stats.wwdt.me_v5](https://github.com/questionlp/stats.wwdt.me_v5) **(Current Version)**
+ * [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me)
+ * [api.wwdt.me_v2](https://github.com/questionlp/api.wwdt.me_v2) **(Current Version)**
+ * [api.wwdt.me](https://github.com/questionlp/api.wwdt.me)
  * [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
- * [graphs.wwdt.me_v2](https://github.com/questionlp/graphs.wwdt.me_v2) (Pre-Release)
+ * [graphs.wwdt.me_v2](https://github.com/questionlp/graphs.wwdt.me_v2) *(Pre-Release)*
  * [reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me)
 
 ### Library
@@ -39,9 +39,11 @@ complete refactor and restructuring. The new version requires Python 3.8 or
 higher. Development of the previous library will be limited to fixing any
 significant data retrieval or calculation issues.
 
- * Version 2: [wwdtm](https://github.com/questionlp/wwdtm)
+ * Version 2: [wwdtm](https://github.com/questionlp/wwdtm) **(Current Version)**
  * Version 1: [libwwdtm](https://github.com/questionlp/libwwdtm)
 
+Documentation for version 2 of the Stats Library is available at
+[docs.wwdt.me](https://docs.wwdt.me).
 
 ### Database Schema
 
@@ -49,6 +51,14 @@ The data that I've collected is stored in a MariaDB/MySQL database and I've
 published the schema for it in its own repo.
 
  * [wwdtm_database](https://github.com/questionlp/wwdtm_database)
+
+### Database Export
+
+A Python program has been created to export the contents of each table in the
+Wait Wait Stats Database as individual JSON files.
+
+ * [wwdtm_database_export](https://github.com/questionlp/wwdtm_database_export)
+
 
 ### Previous Versions
 
