@@ -28,8 +28,8 @@ are developed in Python and on top of the
  * [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me)
  * [api.wwdt.me_v2](https://github.com/questionlp/api.wwdt.me_v2) **(Current Version)**
  * [api.wwdt.me](https://github.com/questionlp/api.wwdt.me)
+ * [graphs.wwdt.me_v2](https://github.com/questionlp/graphs.wwdt.me_v2) **(Current Version)**
  * [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
- * [graphs.wwdt.me_v2](https://github.com/questionlp/graphs.wwdt.me_v2) *(Pre-Release)*
  * [reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me)
 
 ### Library
