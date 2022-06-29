@@ -59,6 +59,13 @@ Wait Wait Stats Database as individual JSON files.
 
  * [wwdtm_database_export](https://github.com/questionlp/wwdtm_database_export)
 
+### Slugify Names
+
+A Python program has been created to generate slug strings for guests, hosts,
+locations, panelists and scorekeepers, which are used throughout the libraries
+and applications listed above.
+
+ * [wwdtm_slugify](http://github.com/questionlp/wwdtm_slugify)
 
 ### Previous Versions
 
