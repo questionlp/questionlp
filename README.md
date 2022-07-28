@@ -30,7 +30,8 @@ are developed in Python and on top of the
  * [api.wwdt.me](https://github.com/questionlp/api.wwdt.me)
  * [graphs.wwdt.me_v2](https://github.com/questionlp/graphs.wwdt.me_v2) **(Current Version)**
  * [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
- * [reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me)
+ * [reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me) **(Current Version)**
+ * [reports.wwdt.me_v2](https://github.com/questionlp/reports.wwdt.me_v2) *(In Development)*
 
 ### Library
 
