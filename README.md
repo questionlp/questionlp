@@ -19,10 +19,9 @@ The current version of the Stats Page, Graphs and Reports web applications are d
 
 ### Library
 
-Version 2 of the Wait Wait Stats Library has been released; which, includes a complete refactor and restructuring. The new version requires Python 3.8 or higher. Development of the previous library will be limited to fixing any significant data retrieval or calculation issues.
+A Python library was created to query, collect and return data from the Wait Wait Stats database. Package for the library are available on PyPi at: <https://pypi.org/project/wwdtm/>
 
- * Version 2: [wwdtm](https://github.com/questionlp/wwdtm) **(Current Version)**
- * Version 1: [libwwdtm](https://github.com/questionlp/libwwdtm)
+ * [wwdtm](https://github.com/questionlp/wwdtm)
 
 Documentation for version 2 of the Stats Library is available at [docs.wwdt.me](https://docs.wwdt.me).
 
@@ -50,6 +49,7 @@ The following projects have been superceded by newer versions that including som
 
  * [api.wwdt.me](https://github.com/questionlp/api.wwdt.me)
  * [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
+ * [libwwdtm](https://github.com/questionlp/libwwdtm)
  * [reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me)
  * [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me)
  
