@@ -61,5 +61,6 @@ Versions 2 and 3 of the Stats Page were developed in PHP, with version 3 using t
 ## Connect
 
  * Twitter: [@questionlp](https://twitter.com/questionlp)
+ * Mastodon: <a rel="me" href="https://mastodon.lol/@qlp">@qlp@mastodon.lol</a>
  * Flickr: [questionlp](https://www.flickr.com/photos/questionlp)
  * Webpage: [linhpham.org](https://linhpham.org)
