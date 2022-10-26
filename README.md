@@ -4,6 +4,8 @@ My name is Linh Pham (he/him) and I am the person behind the [Wait Wait Don't Te
 
 Python is my it thing when it comes to programming or playing around with the data that I've collected over the years from [Wait Wait... Don't Tell Me!](https://waitwait.npr.org). I still dabble around in C#, PHP and JavaScript when I have chance to do so. I definitely want to play around with Swift and Go when I have the free cycles.
 
+Also, feel free to checkout my [GitHub Gists](https://gist.github.com/questionlp).
+
 ## Wait Wait Stats Page Projects
 
 If you are interested in taking a gander at the code for the Stats Page and its supporting and related components, check out the repos listed below. The projects are published under the terms of [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) (unless otherwise noted in the repo's `LICENSE` file).
