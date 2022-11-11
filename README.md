@@ -6,6 +6,8 @@ Python is my it thing when it comes to programming or playing around with the da
 
 Also, feel free to checkout my [GitHub Gists](https://gist.github.com/questionlp).
 
+**Twitter:** [@questionlp](https://twitter.com/questionlp) | **Mastodon:** [qlp@hachyderm.io](https://hachyderm.io/@qlp) | **Flickr:** [questionlp](https://www.flickr.com/photos/questionlp) | [linhpham.org](https://linhpham.org)
+
 ## Wait Wait Stats Page Projects
 
 If you are interested in taking a gander at the code for the Stats Page and its supporting and related components, check out the repos listed below. The projects are published under the terms of [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) (unless otherwise noted in the repo's `LICENSE` file).
@@ -59,10 +61,3 @@ Versions 2 and 3 of the Stats Page were developed in PHP, with version 3 using t
 
  * [stats.wwdt.me_v2](https://github.com/questionlp/stats.wwdt.me_v2)
  * [stats.wwdt.me_v3](https://github.com/questionlp/stats.wwdt.me_v3)
-
-## Connect
-
- * Twitter: [@questionlp](https://twitter.com/questionlp)
- * Mastodon: [@qlp@hachyderm.io](https://hachyderm.io/@qlp)
- * Flickr: [questionlp](https://www.flickr.com/photos/questionlp)
- * Webpage: [linhpham.org](https://linhpham.org)
