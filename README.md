@@ -6,7 +6,7 @@ Python is my it thing when it comes to programming or playing around with the da
 
 Also, feel free to checkout my [GitHub Gists](https://gist.github.com/questionlp).
 
-**Twitter:** [@questionlp](https://twitter.com/questionlp) | **Mastodon:** [qlp@hachyderm.io](https://hachyderm.io/@qlp) | **Flickr:** [questionlp](https://www.flickr.com/photos/questionlp) | [linhpham.org](https://linhpham.org)
+**Twitter:** [@questionlp](https://twitter.com/questionlp) | **Mastodon:** [@qlp@hachyderm.io](https://hachyderm.io/@qlp) | **Flickr:** [questionlp](https://www.flickr.com/photos/questionlp) | [linhpham.org](https://linhpham.org)
 
 ## Wait Wait Stats Page Projects
 
