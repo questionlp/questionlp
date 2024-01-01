@@ -12,6 +12,7 @@ Also, feel free to checkout my [GitHub Gists](https://gist.github.com/questionlp
  * **Flickr:** [questionlp](https://www.flickr.com/photos/questionlp)
  * **Website:** [linhpham.org](https://linhpham.org)
  * **Blog:** [blog.linh.social](https://blog.linh.social)
+ * **Patreon:** [patreon.com/WaitWaitStats](https://patreon.com/WaitWaitStats?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
 
 ## Wait Wait Stats Page Projects
 
