@@ -1,18 +1,18 @@
 # Howdy!
 
-My name is Linh Pham (he/him/they/them) and I am the person behind the [Wait Wait Don't Tell Me! Stats Page](https://stats.wwdt.me). I am also an IT/DevOps Engineer that works on automating and orchestrating applications.
+My name is Linh Pham (he/him/they/them) and I am the person behind the [Wait Wait Don't Tell Me! Stats Page](https://stats.wwdt.me). I am also an Software Release Manager with a background in IT Systems Engineering and DevOps.
 
 Python is my it thing when it comes to programming or playing around with the data that I've collected over the years from [Wait Wait... Don't Tell Me!](https://waitwait.npr.org). I still dabble around in C#, PHP and JavaScript when I have chance to do so. I definitely want to play around with Swift and Go when I have the free cycles.
 
-Also, feel free to checkout my [GitHub Gists](https://gist.github.com/questionlp).
+If you like the Wait Wait Stats Page and collection of sites and would like to help support the project, please consider [sponsoring me on GitHub](https://github.com/sponsors/questionlp).
 
-### Links
+## Links
 
  * **Mastodon:** [qlp@linh.social](https://linh.social/@qlp)
  * **Flickr:** [questionlp](https://www.flickr.com/photos/questionlp)
  * **Website:** [linhpham.org](https://linhpham.org)
  * **Blog:** [blog.linh.social](https://blog.linh.social)
- * **Patreon:** [patreon.com/Linh_Pham](https://patreon.com/Linh_Pham?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
+ * **GitHub Gists:** [gist.github.com/questionlp](https://gist.github.com/questionlp)
 
 ## Wait Wait Stats Page Projects
 
