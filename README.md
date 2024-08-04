@@ -61,7 +61,7 @@ The following projects have been superceded by newer versions that including som
  * [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
  * [libwwdtm](https://github.com/questionlp/libwwdtm)
  * [reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me)
- * [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me)
+ * [stats.wwdt.me_archived](https://github.com/questionlp/stats.wwdt.me_archived)
  
 Versions 2 and 3 of the Stats Page were developed in PHP, with version 3 using the now deprecated [Silex](https://github.com/silexphp/Silex) framework. I've published the code in case anyone is interested at looking at the progression of the Stats Page over the years.
 
