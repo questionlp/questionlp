@@ -24,7 +24,7 @@ The current version of the Stats Page, Graphs and Reports web applications are d
 
  * [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me)
  * [api.wwdt.me_v2](https://github.com/questionlp/api.wwdt.me_v2)
- * [graphs.wwdt.me_v2](https://github.com/questionlp/graphs.wwdt.me_v2)
+ * [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
  * [reports.wwdt.me_v2](https://github.com/questionlp/reports.wwdt.me_v2)
 
 ### Library
@@ -58,7 +58,7 @@ A Python program has been created to generate slug strings for guests, hosts, lo
 The following projects have been superceded by newer versions that including some significant structural and/or framework updates
 
  * [api.wwdt.me](https://github.com/questionlp/api.wwdt.me)
- * [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
+ * [graphs.wwdt.me_v1](https://github.com/questionlp/graphs.wwdt.me_v1)
  * [libwwdtm](https://github.com/questionlp/libwwdtm)
  * [reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me)
  * [stats.wwdt.me_archived](https://github.com/questionlp/stats.wwdt.me_archived)
