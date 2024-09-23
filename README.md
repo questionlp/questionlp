@@ -25,7 +25,7 @@ The current version of the Stats Page, Graphs and Reports web applications are d
  * [stats.wwdt.me](https://github.com/questionlp/stats.wwdt.me)
  * [api.wwdt.me_v2](https://github.com/questionlp/api.wwdt.me_v2)
  * [graphs.wwdt.me](https://github.com/questionlp/graphs.wwdt.me)
- * [reports.wwdt.me_v2](https://github.com/questionlp/reports.wwdt.me_v2)
+ * [reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me)
 
 ### Library
 
@@ -60,7 +60,7 @@ The following projects have been superceded by newer versions that including som
  * [api.wwdt.me](https://github.com/questionlp/api.wwdt.me)
  * [graphs.wwdt.me_v1](https://github.com/questionlp/graphs.wwdt.me_v1)
  * [libwwdtm](https://github.com/questionlp/libwwdtm)
- * [reports.wwdt.me](https://github.com/questionlp/reports.wwdt.me)
+ * [reports.wwdt.me_v1](https://github.com/questionlp/reports.wwdt.me_v1)
  * [stats.wwdt.me_archived](https://github.com/questionlp/stats.wwdt.me_archived)
  
 Versions 2 and 3 of the Stats Page were developed in PHP, with version 3 using the now deprecated [Silex](https://github.com/silexphp/Silex) framework. I've published the code in case anyone is interested at looking at the progression of the Stats Page over the years.
