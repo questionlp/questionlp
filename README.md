@@ -9,6 +9,7 @@ If you like the Wait Wait Stats Page and collection of sites and would like to h
 ## Links
 
  * **Mastodon:** [qlp@linh.social](https://linh.social/@qlp)
+ * **Bluesky:** [@linh.social](https://bsky.app/profile/linh.social)
  * **Flickr:** [questionlp](https://www.flickr.com/photos/questionlp)
  * **Website:** [linhpham.org](https://linhpham.org)
  * **Blog:** [blog.linh.social](https://blog.linh.social)
