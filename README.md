@@ -12,7 +12,7 @@ If you like the Wait Wait Stats Page and collection of sites and would like to h
  * **Bluesky:** [@linh.social](https://bsky.app/profile/linh.social)
  * **Flickr:** [questionlp](https://www.flickr.com/photos/questionlp)
  * **Website:** [linhpham.org](https://linhpham.org)
- * **Blog:** [blog.linh.social](https://linhpham.org/blog)
+ * **Blog:** [linhpham.org/blog](https://linhpham.org/blog)
  * **GitHub Gists:** [gist.github.com/questionlp](https://gist.github.com/questionlp)
 
 ## Wait Wait Stats Page Projects
