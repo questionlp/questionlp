@@ -14,6 +14,7 @@ If you like the Wait Wait Stats Page and collection of sites and would like to h
  * **Website:** [linhpham.org](https://linhpham.org)
  * **Blog:** [linhpham.org/blog](https://linhpham.org/blog)
  * **GitHub Gists:** [gist.github.com/questionlp](https://gist.github.com/questionlp)
+ * **Codeberg:** [codeberg.org/qlp](https://codeberg.org/qlp)
 
 ## Wait Wait Stats Page Projects
 
